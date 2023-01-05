@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? **I feel pretty confident with the practise thus far.  I did reach out to some cohortmates and figure out how to get to a solution.**
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? **Yes, it was more difficult, but kinda fun to figure things out with either trial and error or by using the ruby doc to find examples. I did struggle productively and asked for assistance when I was stagnate.  My unproductive struggle came when I spent too much time teasing out problems without seaking outside assistance.**
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? **I still need to try some more practice, but I will leave some of the time to review between Mod0 and Mod1 to try those more challenging problems. I think I can keep my current schedule and move onto finishing submitions sooner.**
+- What questions do you still have? How will you get the answers you need? **I need time to process because I can truly think of a questions to ask.**
